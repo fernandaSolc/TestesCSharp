@@ -1,0 +1,12 @@
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\bin\Debug\net8.0\DIO.Common.deps.json
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\bin\Debug\net8.0\DIO.Common.dll
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\bin\Debug\net8.0\DIO.Common.pdb
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.sourcelink.json
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.dll
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\refint\DIO.Common.dll
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\DIO.Common.pdb
+C:\Users\Fernanda\Desktop\DIO\DIO.Common\obj\Debug\net8.0\ref\DIO.Common.dll

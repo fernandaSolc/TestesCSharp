@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DIO.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DIO.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIO.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DIO.Common/1.0.0": {
+      "type": "project",
+      "path": "../DIO.Common/DIO.Common.csproj",
+      "msbuildProject": "../DIO.Common/DIO.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DIO.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Fernanda\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO.csproj",
+      "projectUniqueName": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO\\DIO.csproj",
       "projectName": "DIO",
-      "projectPath": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO.csproj",
+      "projectPath": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO\\DIO.csproj",
       "packagesPath": "C:\\Users\\Fernanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernanda\\Desktop\\DIO\\obj\\",
+      "outputPath": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fernanda\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO.Common\\DIO.Common.csproj": {
+              "projectPath": "C:\\Users\\Fernanda\\Desktop\\DIO\\DIO.Common\\DIO.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

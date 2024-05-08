@@ -3,9 +3,8 @@
 Pessoa p = new Pessoa();
 
 p.Nome = "Fernanda";
-p.Idada = 21;
+p.Idade = 21;
 p.Apresentar(); 
-
 
 
 

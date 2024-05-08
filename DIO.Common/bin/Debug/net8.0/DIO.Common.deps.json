@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "DIO/1.0.0": {
-        "dependencies": {
-          "DIO.Common": "1.0.0"
-        },
-        "runtime": {
-          "DIO.dll": {}
-        }
-      },
       "DIO.Common/1.0.0": {
         "runtime": {
           "DIO.Common.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "DIO/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "DIO.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
